@@ -1,5 +1,5 @@
 syntax = "proto3";
-package main;
+package person;
 
 option go_package="./person";
 
